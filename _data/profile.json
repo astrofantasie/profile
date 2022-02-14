@@ -1,9 +1,9 @@
 {
-    "name": "Comedu School",
-    "image": "assets/img/user/user.png",
-    "email": "comeduschool@gmail.com",
+    "name": "astrofantasie",
+    "image": "assets/img/user/solbam.jpg",
+    "email": "astrofantasie@gmail.com",
     "phone": "+82 10 1234 4567",
-    "birth": "Jan 1, 2001",
+    "birth": "April 22, 1989",
     "resumes": [
         {
             "label": "RESUME",
@@ -38,6 +38,7 @@
             "icon": "mdi-youtube",
             "class": "btn-youtube",
             "link": "https://www.youtube.com/channel/UCLaPIscAkcngYMq6IAT6RDw"
+
         },
         {
             "name": "skype",
