@@ -1,9 +1,9 @@
 [
     {
         "image": "assets/img/projects/project1.jpg",
-        "title": "My Title 01",
+        "title": "웹스크래핑 - 네이버 금융: 시장지표",
         "description": "My Description 01",
-        "link": "#"
+        "link": "https://colab.research.google.com/drive/1oLQ5A8SQPwDqH2YspcH8aHo_Ucoo-SY0?usp=sharing"
     },
     {
         "image": "assets/img/projects/project2.jpg",
