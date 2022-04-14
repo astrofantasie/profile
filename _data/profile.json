@@ -2,12 +2,12 @@
     "name": "astrofantasie",
     "image": "assets/img/user/solbam.jpg",
     "email": "astrofantasie@gmail.com",
-    "phone": "+82 10 1234 4567",
+    "phone": "+82 10 1234 5678",
     "birth": "April 22, 1989",
     "resumes": [
         {
             "label": "RESUME",
-            "link": "assets/resume/my-resume.txt"
+            "link": "assets/resume/my_resume.hwp"
         },
         {
             "label": "PORTFOLIO",

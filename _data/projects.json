@@ -1,21 +1,21 @@
 [
     {
         "image": "assets/img/projects/project1.jpg",
-        "title": "웹스크래핑 - 네이버 금융: 시장지표",
+        "title": "Web Scraping - 네이버 금융: 시장지표",
         "description": "My Description 01",
         "link": "https://colab.research.google.com/drive/1oLQ5A8SQPwDqH2YspcH8aHo_Ucoo-SY0?usp=sharing"
     },
     {
         "image": "assets/img/projects/project2.jpg",
-        "title": "My Title 02",
+        "title": "MoveNet: 야구 선수 포즈 추정",
         "description": "My Description 02",
-        "link": "#"
+        "link": "https://colab.research.google.com/drive/1XeRenGsisbNq7NXsnTDl2fuC03_Z-QpR"
     },
     {
         "image": "assets/img/projects/project3.jpg",
-        "title": "My Title 03",
-        "description": "My Description 03",
-        "link": "#"
+        "title": "Vaccination: 강아지 예방접종 날짜 계산",
+        "description": "My Description 03", 
+        "link": "https://colab.research.google.com/drive/17M5yHcC4Hgcpo1PXFzLfqPXQvjSfXCaE?usp=sharing"
     },
     {
         "image": "assets/img/projects/project4.jpg",
